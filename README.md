@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on gaining a better understanding of machine learning and artificial intelligence and their impact on medical devices. 
+- 🌱 I’m currently learning Python, NumPy, Pandas, Django, Micropython, Circuit python, arduino, esp32 cam
+- 💬 Ask me about: medical devices, working for startups
+- 📫 Best way to reach me is via [email](sameer@sameertendulkar.com) or [twitter](https://twitter.com/SameerTendulkar) or send a message through my [webpage](sameertendulkar.com)
+- 😄 Pronouns: he/him
 
 <!--
 **sameer10dulkar/sameer10dulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
