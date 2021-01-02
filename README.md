@@ -1,6 +1,6 @@
 ### Hi there! This is Sameer 👋
 - 🔭 I’m currently working on gaining a better understanding of machine learning and artificial intelligence and their impact on medical devices. 
-- 🌱 I’m currently learning Python, NumPy, Pandas, Django, Micropython, Circuit python, arduino, esp32 cam
+- 🌱 I’m currently learning Python, NumPy, Pandas, TypeScript, Angular, Django, Micropython, Circuit python, arduino, esp32 cam
 - 💬 Ask me about: medical devices, working for startups
 - 📫 Best way to reach me is via [email](mailto:sameer@sameertendulkar.com) or [twitter](https://twitter.com/SameerTendulkar) or send a message through my [webpage](https://sameertendulkar.com)
 - 😄 Pronouns: he/him
